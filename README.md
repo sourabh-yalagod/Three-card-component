@@ -15,8 +15,8 @@ The challenge was to create a responsive 3-column preview card component that al
 
 ## 🌐 Links
 
-- Solution URL: [Add solution URL here](git@github.com:sourabh-yalagod/Three-card-component.git/)
-- Live Site URL: [Add live site URL here](https://sourabh-yalagod.github.io/Three-card-component/)
+- [Live Site](https://sourabh-yalagod.github.io/Three-card-component/)
+- [Solution URL](git@github.com:sourabh-yalagod/Three-card-component.git/)
 
 ## 🛠️ My Process
 
